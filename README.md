@@ -1,2 +1,2 @@
 # projectswithpython
-In this repository I will be keeping my project that I have worked on recently.
+This contains a list of projects that I have worked on.
